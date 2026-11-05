@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Bridge Builder for HomeKit",
+        "description": "Adds a Bridge Builder page to the sidebar for building HomeKit bridges with a picker and an Apple Home preview."
+      }
+    },
+    "abort": {
+      "single_instance_allowed": "Bridge Builder for HomeKit is already set up."
+    }
+  }
+}
